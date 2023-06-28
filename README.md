@@ -3,9 +3,9 @@
 
 <br>
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=gi-flor&theme=onedark&layout=compact)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=gi-flor&theme=radical&layout=compact)
 
-![Gi GitHub stats](https://github-readme-stats.vercel.app/api?username=gi-flor&show_icons=true&theme=onedark&rank_icon=github)
+![Gi GitHub stats](https://github-readme-stats.vercel.app/api?username=gi-flor&show_icons=true&theme=radical&rank_icon=github)
 
 #### Language & Tools
 

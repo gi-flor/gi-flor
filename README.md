@@ -6,8 +6,8 @@
 [![1](https://github-readme-stats-rose-nine-56.vercel.app/api/top-langs/?username=gi-flor&theme=radical&layout=compact#gh-dark-mode-only)](https://github.com/gi-flor/github-readme-stats#gh-dark-mode-only)
 [![1](https://github-readme-stats-rose-nine-56.vercel.app/api/top-langs/?username=gi-flor&theme=buefy&layout=compact#gh-light-mode-only)](https://github.com/gi-flor/github-readme-stats#gh-light-mode-only)
 
-[![Gi GitHub stats-Dark](https://github-readme-stats-rose-nine-56.vercel.app/api?username=gi-flor&show_icons=true&theme=radical&show=reviews&rank_icon=github#gh-dark-mode-only)](https://github.com/gi-flor/github-readme-stats#gh-dark-mode-only)
-[![Gi GitHub stats-Light](https://github-readme-stats-rose-nine-56.vercel.app/api?username=gi-flor&show_icons=true&theme=buefy&show=reviews&rank_icon=github#gh-light-mode-only)](https://github.com/gi-flor/github-readme-stats#gh-light-mode-only)
+[![Gi GitHub stats-Dark](https://github-readme-stats-rose-nine-56.vercel.app/api?username=gi-flor&show_icons=true&theme=radical&show=reviews&hide=stars&include_all_commits=true&rank_icon=github#gh-dark-mode-only)](https://github.com/gi-flor/github-readme-stats#gh-dark-mode-only)
+[![Gi GitHub stats-Light](https://github-readme-stats-rose-nine-56.vercel.app/api?username=gi-flor&show_icons=true&theme=buefy&show=reviews&hide=stars&include_all_commits=true&rank_icon=github#gh-light-mode-only)](https://github.com/gi-flor/github-readme-stats#gh-light-mode-only)
 
 #### Language & Tools
 

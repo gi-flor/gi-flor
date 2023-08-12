@@ -1,15 +1,23 @@
-### Hello World! I'm Gisele 👋
+## Hello World! I'm Gisele 👋
 ...welcome to my ✨ little coding workspace ✨
 
 <br>
 
-[![1](https://github-readme-stats-rose-nine-56.vercel.app/api/top-langs/?username=gi-flor&theme=radical&layout=compact#gh-dark-mode-only)](https://github.com/gi-flor/github-readme-stats#gh-dark-mode-only)
-[![1](https://github-readme-stats-rose-nine-56.vercel.app/api/top-langs/?username=gi-flor&theme=buefy&layout=compact#gh-light-mode-only)](https://github.com/gi-flor/github-readme-stats#gh-light-mode-only)
+<div>
+  <a href="https://github.com/gi-flor/github-readme-stats#gh-dark-mode-only">
+    <img alt="Gi GitHub stats-Dark" src="https://github-readme-stats-gi-flor.vercel.app/api?username=gi-flor&show_icons=true&theme=radical&show=reviews&hide=stars&include_all_commits=true&rank_icon=github#gh-dark-mode-only" />
+    <img alt="Gi GitHub stats-Dark" src="https://github-readme-stats-gi-flor.vercel.app/api/top-langs/?username=gi-flor&theme=radical&layout=compact#gh-dark-mode-only" />
+  </a>
+  
+  <a href="https://github.com/gi-flor/github-readme-stats#gh-light-mode-only">
+    <img alt="Gi GitHub stats-Light" src="https://github-readme-stats-gi-flor.vercel.app/api?username=gi-flor&show_icons=true&theme=buefy&show=reviews&hide=stars&include_all_commits=true&rank_icon=github#gh-light-mode-only" />
+    <img alt="Gi GitHub stats-Light" src="https://github-readme-stats-gi-flor.vercel.app/api/top-langs/?username=gi-flor&theme=buefy&layout=compact#gh-light-mode-only" />
+  </a>
+</div>
 
-[![Gi GitHub stats-Dark](https://github-readme-stats-rose-nine-56.vercel.app/api?username=gi-flor&show_icons=true&theme=radical&show=reviews&hide=stars&include_all_commits=true&rank_icon=github#gh-dark-mode-only)](https://github.com/gi-flor/github-readme-stats#gh-dark-mode-only)
-[![Gi GitHub stats-Light](https://github-readme-stats-rose-nine-56.vercel.app/api?username=gi-flor&show_icons=true&theme=buefy&show=reviews&hide=stars&include_all_commits=true&rank_icon=github#gh-light-mode-only)](https://github.com/gi-flor/github-readme-stats#gh-light-mode-only)
+#
 
-#### Language & Tools
+### Language & Tools
 
 <div>
   <img align="left" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -29,6 +37,7 @@
 
 #
 
+### Connect with me
 <div>
   <a href="https://www.linkedin.com/in/gisele-flor/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
